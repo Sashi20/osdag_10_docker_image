@@ -1,0 +1,28 @@
+Sat, 04 Jun 2016 14:21:58 ERROR : Chosen web plate thickness is not sufficient 
+Sat, 04 Jun 2016 14:21:58 WARNING : Minimum required thickness 8.90 mm 
+Sat, 04 Jun 2016 14:21:58 ERROR : The plate height required is more than the maximum height possible 
+Sat, 04 Jun 2016 14:21:58 WARNING : Maximum plate height required is 330.00 mm 
+Sat, 04 Jun 2016 14:21:58 INFO Try to increase the plate thickness 
+Sat, 04 Jun 2016 14:21:58 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 14:21:58 WARNING : Minimum weld thickness is required is 8.00 mm 
+Sat, 04 Jun 2016 14:21:58 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 14:21:58 ERROR : Design is not safe 
+Sat, 04 Jun 2016 14:21:58 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:22:45 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 14:22:45 WARNING : Minimum weld thickness is required is 8.00 mm 
+Sat, 04 Jun 2016 14:22:45 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 14:22:45 ERROR : Design is not safe 
+Sat, 04 Jun 2016 14:22:45 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:27:27 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:27:27 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:27:42 ERROR : Chosen web plate thickness is not sufficient 
+Sat, 04 Jun 2016 14:27:42 WARNING : Minimum required thickness 8.90 mm 
+Sat, 04 Jun 2016 14:27:42 ERROR : The plate height required is more than the maximum height possible 
+Sat, 04 Jun 2016 14:27:42 WARNING : Maximum plate height required is 330.00 mm 
+Sat, 04 Jun 2016 14:27:42 INFO Try to increase the plate thickness 
+Sat, 04 Jun 2016 14:27:42 ERROR : Design is not safe 
+Sat, 04 Jun 2016 14:27:42 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:28:11 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:28:11 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:30:06 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:30:06 DEBUG :=========End Of design=========== 

@@ -1,0 +1,7 @@
+Sat, 04 Jun 2016 14:46:47 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 14:46:47 WARNING : Minimum weld thickness is required is 8.00 mm 
+Sat, 04 Jun 2016 14:46:47 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 14:46:47 ERROR : Design is not safe 
+Sat, 04 Jun 2016 14:46:47 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:47:08 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:47:08 DEBUG :=========End Of design=========== 

@@ -1,0 +1,69 @@
+Sat, 04 Jun 2016 12:55:09 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 12:55:09 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 12:56:53 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 12:56:53 WARNING : Minimum weld thickness is required is 8.00 mm 
+Sat, 04 Jun 2016 12:56:53 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 12:56:53 ERROR : Design is not safe 
+Sat, 04 Jun 2016 12:56:53 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 12:57:09 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 12:57:09 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:03:51 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 13:03:51 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:04:26 ERROR : The plate height required is more than the maximum height possible 
+Sat, 04 Jun 2016 13:04:26 WARNING : Maximum plate height required is 330.00 mm 
+Sat, 04 Jun 2016 13:04:26 INFO Try to increase the plate thickness 
+Sat, 04 Jun 2016 13:04:26 ERROR : Design is not safe 
+Sat, 04 Jun 2016 13:04:26 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:04:34 ERROR : The plate height required is more than the maximum height possible 
+Sat, 04 Jun 2016 13:04:34 WARNING : Maximum plate height required is 330.00 mm 
+Sat, 04 Jun 2016 13:04:34 INFO Try to increase the plate thickness 
+Sat, 04 Jun 2016 13:04:34 ERROR : Design is not safe 
+Sat, 04 Jun 2016 13:04:34 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:04:39 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 13:04:39 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:04:54 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 13:04:54 WARNING : Minimum weld thickness is required is 10.00 mm 
+Sat, 04 Jun 2016 13:04:54 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 13:04:54 ERROR : Design is not safe 
+Sat, 04 Jun 2016 13:04:54 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:04:57 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 13:04:57 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:05:12 ERROR : The plate height required is more than the maximum height possible 
+Sat, 04 Jun 2016 13:05:12 WARNING : Maximum plate height required is 330.00 mm 
+Sat, 04 Jun 2016 13:05:12 INFO Try to increase the plate thickness 
+Sat, 04 Jun 2016 13:05:12 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 13:05:12 WARNING : Minimum weld thickness is required is 8.00 mm 
+Sat, 04 Jun 2016 13:05:12 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 13:05:12 ERROR : Design is not safe 
+Sat, 04 Jun 2016 13:05:12 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:05:17 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 13:05:17 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:05:22 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 13:05:22 WARNING : Minimum weld thickness is required is 10.00 mm 
+Sat, 04 Jun 2016 13:05:22 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 13:05:22 ERROR : Design is not safe 
+Sat, 04 Jun 2016 13:05:22 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:05:25 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 13:05:25 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:05:43 ERROR : The plate height required is more than the maximum height possible 
+Sat, 04 Jun 2016 13:05:43 WARNING : Maximum plate height required is 330.00 mm 
+Sat, 04 Jun 2016 13:05:43 INFO Try to increase the plate thickness 
+Sat, 04 Jun 2016 13:05:43 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 13:05:43 WARNING : Minimum weld thickness is required is 8.00 mm 
+Sat, 04 Jun 2016 13:05:43 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 13:05:43 ERROR : Design is not safe 
+Sat, 04 Jun 2016 13:05:43 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:05:54 ERROR : The plate height required is more than the maximum height possible 
+Sat, 04 Jun 2016 13:05:54 WARNING : Maximum plate height required is 330.00 mm 
+Sat, 04 Jun 2016 13:05:54 INFO Try to increase the plate thickness 
+Sat, 04 Jun 2016 13:05:54 ERROR : Design is not safe 
+Sat, 04 Jun 2016 13:05:54 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:06:04 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 13:06:04 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:46:51 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 13:46:51 WARNING : Minimum weld thickness is required is 8.00 mm 
+Sat, 04 Jun 2016 13:46:51 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 13:46:51 ERROR : Design is not safe 
+Sat, 04 Jun 2016 13:46:51 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 13:46:58 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 13:46:58 DEBUG :=========End Of design=========== 

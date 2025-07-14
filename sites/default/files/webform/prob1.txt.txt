@@ -1,0 +1,81 @@
+Sat, 04 Jun 2016 15:24:27 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:24:27 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:24:27 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:24:27 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:24:45 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:24:45 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:24:45 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:24:45 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:25:10 ERROR : The block shear capacity of the plate is less than the applied shear force [cl. 6.4.1] 
+Sat, 04 Jun 2016 15:25:10 WARNING : Minimum block shear capacity required is 160.00 KN 
+Sat, 04 Jun 2016 15:25:10 INFO : Increase the plate thickness 
+Sat, 04 Jun 2016 15:25:10 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:25:10 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:25:22 ERROR : The block shear capacity of the plate is less than the applied shear force [cl. 6.4.1] 
+Sat, 04 Jun 2016 15:25:22 WARNING : Minimum block shear capacity required is 160.00 KN 
+Sat, 04 Jun 2016 15:25:22 INFO : Increase the plate thickness 
+Sat, 04 Jun 2016 15:25:22 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:25:22 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:25:29 ERROR : The block shear capacity of the plate is less than the applied shear force [cl. 6.4.1] 
+Sat, 04 Jun 2016 15:25:29 WARNING : Minimum block shear capacity required is 160.00 KN 
+Sat, 04 Jun 2016 15:25:29 INFO : Increase the plate thickness 
+Sat, 04 Jun 2016 15:25:29 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:25:29 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:25:39 ERROR : The block shear capacity of the plate is less than the applied shear force [cl. 6.4.1] 
+Sat, 04 Jun 2016 15:25:39 WARNING : Minimum block shear capacity required is 160.00 KN 
+Sat, 04 Jun 2016 15:25:39 INFO : Increase the plate thickness 
+Sat, 04 Jun 2016 15:25:39 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:25:39 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:25:54 ERROR : Weld Strength is less than the Shear Demand [cl. 10.5.9] 
+Sat, 04 Jun 2016 15:25:54 WARNING : Weld Strength should be greater than 0.00 KN/mm 
+Sat, 04 Jun 2016 15:25:54 INFO : Increase the Weld Size 
+Sat, 04 Jun 2016 15:25:54 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:25:54 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:26:05 ERROR : Weld Strength is less than the Shear Demand [cl. 10.5.9] 
+Sat, 04 Jun 2016 15:26:05 WARNING : Weld Strength should be greater than 0.00 KN/mm 
+Sat, 04 Jun 2016 15:26:05 INFO : Increase the Weld Size 
+Sat, 04 Jun 2016 15:26:05 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:26:05 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:26:17 ERROR : Weld Strength is less than the Shear Demand [cl. 10.5.9] 
+Sat, 04 Jun 2016 15:26:17 WARNING : Weld Strength should be greater than 0.00 KN/mm 
+Sat, 04 Jun 2016 15:26:17 INFO : Increase the Weld Size 
+Sat, 04 Jun 2016 15:26:17 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:26:17 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:26:32 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:26:32 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:26:32 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:26:32 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:26:48 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:26:48 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:26:48 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:26:48 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:27:13 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:27:13 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:27:13 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:27:13 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:27:49 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:27:49 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:27:49 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:27:49 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:41:57 ERROR : Cross center distance between the bolt lines on either side of the beam is less than specified gauge [reference JSC : chap. 5 check 1] 
+Sat, 04 Jun 2016 15:41:57 WARNING : Minimum required cross center gauge is 90 mm 
+Sat, 04 Jun 2016 15:41:57 INFO : Increase the plate width 
+Sat, 04 Jun 2016 15:41:57 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:41:57 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:42:32 ERROR : Cross center distance between the bolt lines on either side of the beam is less than specified gauge [reference JSC : chap. 5 check 1] 
+Sat, 04 Jun 2016 15:42:32 WARNING : Minimum required cross center gauge is 90 mm 
+Sat, 04 Jun 2016 15:42:32 INFO : Increase the plate width 
+Sat, 04 Jun 2016 15:42:32 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:42:32 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:43:06 ERROR : Cross center distance between the bolt lines on either side of the beam is less than specified gauge [reference JSC : chap. 5 check 1] 
+Sat, 04 Jun 2016 15:43:06 WARNING : Minimum required cross center gauge is 90 mm 
+Sat, 04 Jun 2016 15:43:06 INFO : Increase the plate width 
+Sat, 04 Jun 2016 15:43:06 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:43:06 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:43:35 ERROR : Cross center distance between the bolt lines on either side of the beam is less than specified gauge [reference JSC : chap. 5 check 1] 
+Sat, 04 Jun 2016 15:43:35 WARNING : Minimum required cross center gauge is 90 mm 
+Sat, 04 Jun 2016 15:43:35 INFO : Increase the plate width 
+Sat, 04 Jun 2016 15:43:35 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:43:35 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:44:50 INFO : Overall endplate connection design is safe 
+Sat, 04 Jun 2016 15:44:50 DEBUG :=========End Of design=========== 

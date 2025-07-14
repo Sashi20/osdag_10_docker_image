@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   version="1.1"
+   viewBox="-200 -250 1200 900"
+   width="100%"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Section C-C.svg">
+  <metadata
+     id="metadata203">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview201"
+     showgrid="false"
+     inkscape:zoom="0.96"
+     inkscape:cx="551.70086"
+     inkscape:cy="489.17546"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <marker
+       id="id70"
+       markerHeight="10"
+       markerWidth="10"
+       orient="auto"
+       refX="0"
+       refY="5">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="blue"
+         stroke="black"
+         id="path7" />
+    </marker>
+    <marker
+       id="id71"
+       markerHeight="10"
+       markerWidth="10"
+       orient="auto"
+       refX="0"
+       refY="5">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="blue"
+         stroke="black"
+         id="path10" />
+    </marker>
+    <marker
+       id="id72"
+       markerHeight="10"
+       markerWidth="10"
+       orient="auto"
+       refX="0"
+       refY="5">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="blue"
+         stroke="black"
+         id="path13" />
+    </marker>
+    <marker
+       id="id73"
+       markerHeight="10"
+       markerWidth="10"
+       orient="auto"
+       refX="0"
+       refY="5">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="blue"
+         stroke="black"
+         id="path16" />
+    </marker>
+    <marker
+       id="id74"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path19" />
+    </marker>
+    <marker
+       id="id75"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path22" />
+    </marker>
+    <marker
+       id="id76"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path25" />
+    </marker>
+    <marker
+       id="id77"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path28" />
+    </marker>
+    <marker
+       id="id78"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path31" />
+    </marker>
+    <marker
+       id="id79"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path34" />
+    </marker>
+    <marker
+       id="id80"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path37" />
+    </marker>
+    <marker
+       id="id81"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path40" />
+    </marker>
+    <marker
+       id="id82"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path43" />
+    </marker>
+    <marker
+       id="id83"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path46" />
+    </marker>
+    <marker
+       id="id84"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path49" />
+    </marker>
+    <marker
+       id="id85"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path52" />
+    </marker>
+    <marker
+       id="id86"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path55" />
+    </marker>
+  </defs>
+  <line
+     marker-end="url(#id70)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="820"
+     x2="770"
+     y1="0"
+     y2="0"
+     id="line57" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="52"
+     x="690"
+     y="20"
+     id="text59">B</text>
+  <line
+     marker-end="url(#id71)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="820"
+     x2="770"
+     y1="340"
+     y2="340"
+     id="line61" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="52"
+     x="690"
+     y="360"
+     id="text63">B</text>
+  <line
+     stroke="#666666"
+     stroke-linecap="square"
+     stroke-width="1.0"
+     x1="820"
+     x2="820"
+     y1="0"
+     y2="340"
+     id="line65" />
+  <line
+     x1="-44.791668"
+     x2="-44.791668"
+     y1="468.24997"
+     y2="418.25"
+     id="line67"
+     style="stroke:#000000;stroke-width:2.5;stroke-linecap:square;marker-end:url(#id72)" />
+  <text
+     font-size="52"
+     x="-26.25"
+     y="445.95834"
+     id="text69"
+     style="font-size:52px;font-family:sans-serif;fill:#000000">C</text>
+  <line
+     x1="524.16669"
+     x2="524.16669"
+     y1="466.16666"
+     y2="416.16666"
+     id="line71"
+     style="stroke:#000000;stroke-width:2.5;stroke-linecap:square;marker-end:url(#id73)" />
+  <text
+     font-size="52"
+     x="467.70834"
+     y="449.08334"
+     id="text73"
+     style="font-size:52px;font-family:sans-serif;fill:#000000">C</text>
+  <line
+     x1="-45.833336"
+     x2="524.16663"
+     y1="468.25"
+     y2="468.25"
+     id="line75"
+     style="stroke:#666666;stroke-width:1;stroke-linecap:square" />
+  <polyline
+     fill="none"
+     points="0,0 150,0 150,340 0,340 0,0"
+     stroke="blue"
+     stroke-width="2.5"
+     id="polyline77" />
+  <line
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="70.3"
+     x2="70.3"
+     y1="0.0"
+     y2="340.0"
+     id="line79" />
+  <line
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="79.7"
+     x2="79.7"
+     y1="0.0"
+     y2="340.0"
+     id="line81" />
+  <polyline
+     fill="none"
+     points="150,100 99.7,100.0 99.7,240.0 150,240"
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-width="2.5"
+     id="polyline83" />
+  <polyline
+     fill="none"
+     points="150,100 160,100 449.7,100.0 449.7,240.0 160,240 150,240"
+     stroke="blue"
+     stroke-width="2.5"
+     id="polyline85" />
+  <line
+     stroke="blue"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="160"
+     x2="160"
+     y1="100"
+     y2="240"
+     id="line87" />
+  <line
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="99.7"
+     x2="150.0"
+     y1="166.15"
+     y2="166.15"
+     id="line89" />
+  <line
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="99.7"
+     x2="150.0"
+     y1="173.85"
+     y2="173.85"
+     id="line91" />
+  <line
+     stroke="blue"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="150.0"
+     x2="160.0"
+     y1="166.15"
+     y2="166.15"
+     id="line93" />
+  <line
+     stroke="blue"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="150.0"
+     x2="160.0"
+     y1="173.85"
+     y2="173.85"
+     id="line95" />
+  <line
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="160.0"
+     x2="449.7"
+     y1="166.15"
+     y2="166.15"
+     id="line97" />
+  <line
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="160.0"
+     x2="449.7"
+     y1="173.85"
+     y2="173.85"
+     id="line99" />
+  <polyline
+     fill="none"
+     points="79.7,66.15 91.7,66.15 91.7,154.15 179.7,154.15 179.7,166.15 79.7,166.15 79.7,66.15"
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-width="2.5"
+     id="polyline101" />
+  <polyline
+     fill="none"
+     points="79.7,273.85 91.7,273.85 91.7,185.85 179.7,185.85 179.7,173.85 79.7,173.85 79.7,273.85"
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-width="2.5"
+     id="polyline103" />
+  <rect
+     fill="black"
+     height="31.7"
+     stroke="black"
+     stroke-width="2.5"
+     width="20"
+     x="132.7"
+     y="154.15"
+     id="rect105" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="142.7"
+     x2="142.7"
+     y1="144.15"
+     y2="195.85"
+     id="line107" />
+  <rect
+     fill="black"
+     height="20"
+     stroke="black"
+     stroke-width="2.5"
+     width="21.4"
+     x="70.3"
+     y="93.15"
+     id="rect109" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="60.3"
+     x2="101.7"
+     y1="103.15"
+     y2="103.15"
+     id="line111" />
+  <rect
+     fill="black"
+     height="20"
+     stroke="black"
+     stroke-width="2.5"
+     width="21.4"
+     x="70.3"
+     y="226.85"
+     id="rect113" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="60.3"
+     x2="112.0"
+     y1="236.85"
+     y2="236.85"
+     id="line115" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="79.7"
+     x2="-104.0"
+     y1="66.15"
+     y2="66.15"
+     id="line117" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="70.3"
+     x2="-104.7"
+     y1="103.15"
+     y2="103.15"
+     id="line119" />
+  <line
+     marker-end="url(#id74)"
+     marker-start="url(#id75)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="-104.7"
+     x2="-104.7"
+     y1="66.15"
+     y2="103.15"
+     id="line121" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-154.7"
+     y="84.65"
+     id="text123">37</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-114.7"
+     x2="-94.7"
+     y1="66.15"
+     y2="66.15"
+     id="line125" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-114.7"
+     x2="-94.7"
+     y1="103.15"
+     y2="103.15"
+     id="line127" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="79.7"
+     x2="-104.0"
+     y1="273.85"
+     y2="273.85"
+     id="line129" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="70.3"
+     x2="-104.7"
+     y1="236.85"
+     y2="236.85"
+     id="line131" />
+  <line
+     marker-end="url(#id76)"
+     marker-start="url(#id77)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="-104.7"
+     x2="-104.7"
+     y1="273.85"
+     y2="236.85"
+     id="line133" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-154.7"
+     y="255.35"
+     id="text135">37</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-114.7"
+     x2="-94.7"
+     y1="273.85"
+     y2="273.85"
+     id="line137" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-114.7"
+     x2="-94.7"
+     y1="236.85"
+     y2="236.85"
+     id="line139" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="142.7"
+     x2="142.7"
+     y1="154.15"
+     y2="-40.85"
+     id="line141" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="179.7"
+     x2="179.7"
+     y1="154.15"
+     y2="-40.85"
+     id="line143" />
+  <line
+     marker-end="url(#id78)"
+     marker-start="url(#id79)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="142.7"
+     x2="179.7"
+     y1="-40.85"
+     y2="-40.85"
+     id="line145" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="161.2"
+     y="-50.85"
+     id="text147">37</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="142.7"
+     x2="142.7"
+     y1="-50.85"
+     y2="-30.85"
+     id="line149" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="179.7"
+     x2="179.7"
+     y1="-50.85"
+     y2="-30.85"
+     id="line151" />
+  <polyline
+     fill="none"
+     marker-start="url(#id80)"
+     points="449.7,170.0 449.7,170.0 657.7,170.0"
+     stroke="black"
+     stroke-width="2.5"
+     id="polyline153" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="470.5"
+     y="152.0"
+     id="text155">Beam ISMB 300</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="470.5"
+     y="188.0"
+     id="text157" />
+  <polyline
+     fill="none"
+     marker-start="url(#id81)"
+     points="75,0 75.0,-150.0 283.0,-150.0"
+     stroke="black"
+     stroke-width="2.5"
+     id="polyline159" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="95.8"
+     y="-168.0"
+     id="text161">Beam ISMB 450</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="95.8"
+     y="-117.0"
+     id="text163" />
+  <polyline
+     points="179.7,154.15 322.710431111,34.15 562.710431111,34.15"
+     id="polyline165"
+     style="fill:none;stroke:#00be00;stroke-width:2.50014235;stroke-opacity:1;marker-start:url(#id82);stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+     transform="matrix(1.1250681,0,0,0.99933517,-22.417349,0.06249616)" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="346.710431111"
+     y="16.15"
+     id="text167"
+     style="fill:#00be00;fill-opacity:1;">ISA. 100x100x12</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="346.710431111"
+     y="67.15"
+     id="text169" />
+  <polyline
+     fill="none"
+     marker-start="url(#id83)"
+     points="142.7,154.15 382.7,-85.85 750.7,-85.85"
+     stroke="black"
+     stroke-width="2.5"
+     id="polyline171" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="419.5"
+     y="-103.85"
+     id="text173">4 nos 20Ø holes</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="419.5"
+     y="-52.85"
+     id="text175">for M20bolts(grade 4.8)</text>
+  <polyline
+     fill="none"
+     marker-start="url(#id84)"
+     points="70.3,236.85 234.844826719,331.85 602.844826719,331.85"
+     stroke="black"
+     stroke-width="2.5"
+     id="polyline177" />
+  <text
+     font-size="28"
+     x="262.26984"
+     y="321.14166"
+     id="text179"
+     style="font-size:28px;font-family:sans-serif;fill:#000000">6 nos 20Ø holes</text>
+  <text
+     font-size="28"
+     x="264.35318"
+     y="361.30835"
+     id="text181"
+     style="font-size:28px;font-family:sans-serif;fill:#000000">for M20bolts(grade 4.8)</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="150.0"
+     x2="150.0"
+     y1="450.0"
+     y2="450.0"
+     id="line183" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="170.0"
+     x2="170.0"
+     y1="450.0"
+     y2="450.0"
+     id="line185" />
+  <line
+     marker-end="url(#id85)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="100.0"
+     x2="150"
+     y1="440.0"
+     y2="440"
+     id="line187" />
+  <line
+     marker-end="url(#id85)"
+     stroke="black"
+     stroke-linecap="butt"
+     stroke-width="2.5"
+     x1="220.0"
+     x2="170"
+     y1="440.0"
+     y2="440"
+     id="line189" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="230.0"
+     y="440.0"
+     id="text191">20</text>
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="150"
+     x2="150"
+     y1="340"
+     y2="440"
+     id="line193" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="160"
+     x2="160"
+     y1="240"
+     y2="395"
+     id="line195" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="30"
+     x="150"
+     y="640"
+     id="text197">Top view (Sec A-A)</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="30"
+     x="500"
+     y="640"
+     id="text199">(All distances are in &quot;mm&quot;)</text>
+</svg>

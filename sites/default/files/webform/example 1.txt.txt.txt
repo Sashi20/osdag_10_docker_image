@@ -1,0 +1,41 @@
+Sat, 04 Jun 2016 14:12:34 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:12:34 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:13:36 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:13:36 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:13:47 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:13:47 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:15:37 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:15:37 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:40:42 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:40:42 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:41:02 ERROR : The plate height required is more than the maximum height possible 
+Sat, 04 Jun 2016 14:41:02 WARNING : Maximum plate height required is 330.00 mm 
+Sat, 04 Jun 2016 14:41:02 INFO Try to increase the plate thickness 
+Sat, 04 Jun 2016 14:41:02 ERROR : Design is not safe 
+Sat, 04 Jun 2016 14:41:02 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:41:12 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:41:12 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:44:13 ERROR : The plate height required is more than the maximum height possible 
+Sat, 04 Jun 2016 14:44:13 WARNING : Maximum plate height required is 330.00 mm 
+Sat, 04 Jun 2016 14:44:13 INFO Try to increase the plate thickness 
+Sat, 04 Jun 2016 14:44:13 ERROR : Design is not safe 
+Sat, 04 Jun 2016 14:44:13 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:44:18 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:44:18 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 14:59:47 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:59:47 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:15:44 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 15:15:44 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:16:04 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 15:16:04 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:16:14 ERROR : Weld thickness is not sufficient [cl. 10.5.7; Insdag Detailing Manual, 2002] 
+Sat, 04 Jun 2016 15:16:14 WARNING : Minimum weld thickness is required is 9.00 mm 
+Sat, 04 Jun 2016 15:16:14 INFO : Increase the weld thickness or length of weld/finplate 
+Sat, 04 Jun 2016 15:16:14 ERROR : Design is not safe 
+Sat, 04 Jun 2016 15:16:14 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:16:24 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 15:16:24 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:23:51 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 15:23:51 DEBUG :=========End Of design=========== 
+Sat, 04 Jun 2016 15:23:54 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 15:23:54 DEBUG :=========End Of design=========== 

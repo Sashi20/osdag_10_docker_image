@@ -1,0 +1,2 @@
+Sat, 04 Jun 2016 14:04:14 INFO : Overall finplate connection design is safe 
+Sat, 04 Jun 2016 14:04:14 DEBUG :=========End Of design=========== 

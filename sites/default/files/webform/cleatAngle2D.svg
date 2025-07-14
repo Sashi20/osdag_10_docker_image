@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   version="1.1"
+   viewBox="-500 -350 1500 1300"
+   width="100%"
+   id="svg3336"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cleatAngle2D.svg">
+  <metadata
+     id="metadata3619">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3617"
+     showgrid="false"
+     inkscape:zoom="0.65230769"
+     inkscape:cx="523.87972"
+     inkscape:cy="650"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3336" />
+  <defs
+     id="defs3338">
+    <marker
+       id="id399"
+       markerHeight="10"
+       markerWidth="10"
+       orient="auto"
+       refX="0"
+       refY="5">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="blue"
+         stroke="black"
+         id="path3341" />
+    </marker>
+    <marker
+       id="id400"
+       markerHeight="10"
+       markerWidth="10"
+       orient="auto"
+       refX="0"
+       refY="5">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="blue"
+         stroke="black"
+         id="path3344" />
+    </marker>
+    <marker
+       id="id401"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path3347" />
+    </marker>
+    <marker
+       id="id402"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3350" />
+    </marker>
+    <marker
+       id="id403"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path3353" />
+    </marker>
+    <marker
+       id="id404"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3356" />
+    </marker>
+    <marker
+       id="id405"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path3359" />
+    </marker>
+    <marker
+       id="id406"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3362" />
+    </marker>
+    <marker
+       id="id407"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path3365" />
+    </marker>
+    <marker
+       id="id408"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3368" />
+    </marker>
+    <marker
+       id="id409"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path3371" />
+    </marker>
+    <marker
+       id="id410"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3374" />
+    </marker>
+    <marker
+       id="id411"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path3377" />
+    </marker>
+    <marker
+       id="id412"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3380" />
+    </marker>
+    <marker
+       id="id413"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path3383" />
+    </marker>
+    <marker
+       id="id414"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3386" />
+    </marker>
+    <marker
+       id="id415"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path3389" />
+    </marker>
+    <marker
+       id="id416"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3392" />
+    </marker>
+    <marker
+       id="id417"
+       markerHeight="30"
+       markerWidth="30"
+       orient="auto"
+       refX="8"
+       refY="3">
+      <path
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0"
+         fill="black"
+         id="path3395" />
+    </marker>
+    <marker
+       id="id418"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3398" />
+    </marker>
+    <marker
+       id="id419"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3401" />
+    </marker>
+    <marker
+       id="id420"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3404" />
+    </marker>
+    <marker
+       id="id421"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3407" />
+    </marker>
+    <marker
+       id="id422"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3410" />
+    </marker>
+    <marker
+       id="id423"
+       markerHeight="20"
+       markerWidth="30"
+       orient="auto"
+       refX="0"
+       refY="3">
+      <path
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3"
+         fill="black"
+         id="path3413" />
+    </marker>
+  </defs>
+  <line
+     marker-end="url(#id399)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="0"
+     x2="0"
+     y1="-320"
+     y2="-270"
+     id="line3415" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="52"
+     x="-10"
+     y="-190"
+     id="text3417">A</text>
+  <line
+     marker-end="url(#id400)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="449.7"
+     x2="449.7"
+     y1="-320.0"
+     y2="-270.0"
+     id="line3419" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="52"
+     x="439.7"
+     y="-190.0"
+     id="text3421">A</text>
+  <line
+     stroke="#666666"
+     stroke-linecap="square"
+     stroke-width="1.0"
+     x1="0"
+     x2="449.7"
+     y1="-320"
+     y2="-320.0"
+     id="line3423" />
+  <polyline
+     fill="none"
+     points="0,0 150,0 150.0,17.4 79.7,17.4 79.7,432.6 150.0,432.6 150.0,450.0 0.0,450.0 0.0,432.6 70.3,432.6 70.3,17.4 0.0,17.4 0,0"
+     stroke="blue"
+     stroke-width="2.5"
+     id="polyline3425" />
+  <polyline
+     fill="none"
+     points="160.0,17.4 160,0 449.7,0.0 449.7,300.0 99.7,300.0 99.7,286.9 99.7,252.4"
+     stroke="blue"
+     stroke-width="2.5"
+     id="polyline3427" />
+  <line
+     stroke="red"
+     stroke-dasharray="5 5"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="99.7"
+     x2="99.7"
+     y1="32.4"
+     y2="252.4"
+     id="line3429" />
+  <line
+     stroke="blue"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="160.0"
+     x2="449.7"
+     y1="13.1"
+     y2="13.1"
+     id="line3431" />
+  <line
+     stroke="blue"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="99.7"
+     x2="449.7"
+     y1="286.9"
+     y2="286.9"
+     id="line3433" />
+  <rect
+     fill="none"
+     height="220"
+     stroke="blue"
+     stroke-width="2.5"
+     width="8"
+     x="79.7"
+     y="32.4"
+     id="rect3435" />
+  <rect
+     fill="none"
+     height="220"
+     stroke="blue"
+     stroke-width="2.5"
+     width="82"
+     x="87.7"
+     y="32.4"
+     id="rect3437" />
+  <path
+     d="M 160.0 17.4 A 15.0 15.0 , 0 , 0 , 1 , 145.0 32.4"
+     fill="none"
+     stroke="blue"
+     stroke-width="2.5"
+     id="path3439" />
+  <circle
+     cx="139.7"
+     cy="62.4"
+     fill="none"
+     r="8"
+     stroke="blue"
+     stroke-width="1.5"
+     id="circle3441" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="127.7"
+     x2="151.7"
+     y1="62.4"
+     y2="62.4"
+     id="line3443" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="139.7"
+     x2="139.7"
+     y1="50.4"
+     y2="74.4"
+     id="line3445" />
+  <circle
+     cx="139.7"
+     cy="102.4"
+     fill="none"
+     r="8"
+     stroke="blue"
+     stroke-width="1.5"
+     id="circle3447" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="127.7"
+     x2="151.7"
+     y1="102.4"
+     y2="102.4"
+     id="line3449" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="139.7"
+     x2="139.7"
+     y1="90.4"
+     y2="114.4"
+     id="line3451" />
+  <circle
+     cx="139.7"
+     cy="142.4"
+     fill="none"
+     r="8"
+     stroke="blue"
+     stroke-width="1.5"
+     id="circle3453" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="127.7"
+     x2="151.7"
+     y1="142.4"
+     y2="142.4"
+     id="line3455" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="139.7"
+     x2="139.7"
+     y1="130.4"
+     y2="154.4"
+     id="line3457" />
+  <circle
+     cx="139.7"
+     cy="182.4"
+     fill="none"
+     r="8"
+     stroke="blue"
+     stroke-width="1.5"
+     id="circle3459" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="127.7"
+     x2="151.7"
+     y1="182.4"
+     y2="182.4"
+     id="line3461" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="139.7"
+     x2="139.7"
+     y1="170.4"
+     y2="194.4"
+     id="line3463" />
+  <circle
+     cx="139.7"
+     cy="222.4"
+     fill="none"
+     r="8"
+     stroke="blue"
+     stroke-width="1.5"
+     id="circle3465" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="127.7"
+     x2="151.7"
+     y1="222.4"
+     y2="222.4"
+     id="line3467" />
+  <line
+     stroke="red"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="139.7"
+     x2="139.7"
+     y1="210.4"
+     y2="234.4"
+     id="line3469" />
+  <rect
+     fill="black"
+     height="16"
+     stroke="black"
+     stroke-width="2.0"
+     width="17.4"
+     x="70.3"
+     y="74.4"
+     id="rect3471" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="60.3"
+     x2="105.7"
+     y1="82.4"
+     y2="82.4"
+     id="line3473" />
+  <rect
+     fill="black"
+     height="16"
+     stroke="black"
+     stroke-width="2.0"
+     width="17.4"
+     x="70.3"
+     y="114.4"
+     id="rect3475" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="60.3"
+     x2="105.7"
+     y1="122.4"
+     y2="122.4"
+     id="line3477" />
+  <rect
+     fill="black"
+     height="16"
+     stroke="black"
+     stroke-width="2.0"
+     width="17.4"
+     x="70.3"
+     y="154.4"
+     id="rect3479" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="60.3"
+     x2="105.7"
+     y1="162.4"
+     y2="162.4"
+     id="line3481" />
+  <rect
+     fill="black"
+     height="16"
+     stroke="black"
+     stroke-width="2.0"
+     width="17.4"
+     x="70.3"
+     y="194.4"
+     id="rect3483" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.0"
+     x1="60.3"
+     x2="105.7"
+     y1="202.4"
+     y2="202.4"
+     id="line3485" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="169.7"
+     x2="669.7"
+     y1="32.4"
+     y2="32.4"
+     id="line3487" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="169.7"
+     x2="669.7"
+     y1="252.4"
+     y2="252.4"
+     id="line3489" />
+  <line
+     marker-end="url(#id401)"
+     marker-start="url(#id402)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="519.7"
+     x2="519.7"
+     y1="32.4"
+     y2="252.4"
+     id="line3491" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="529.7"
+     y="142.4"
+     id="text3493">220</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="529.7"
+     x2="509.7"
+     y1="32.4"
+     y2="32.4"
+     id="line3495" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="529.7"
+     x2="509.7"
+     y1="252.4"
+     y2="252.4"
+     id="line3497" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="139.7"
+     x2="639.7"
+     y1="62.4"
+     y2="62.4"
+     id="line3499" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="139.7"
+     x2="639.7"
+     y1="222.4"
+     y2="222.4"
+     id="line3501" />
+  <line
+     marker-end="url(#id403)"
+     marker-start="url(#id404)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="639.7"
+     x2="639.7"
+     y1="62.4"
+     y2="222.4"
+     id="line3503" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="649.7"
+     y="142.4"
+     id="text3505">4@40 c/c</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="649.7"
+     x2="629.7"
+     y1="62.4"
+     y2="62.4"
+     id="line3507" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="649.7"
+     x2="629.7"
+     y1="222.4"
+     y2="222.4"
+     id="line3509" />
+  <line
+     marker-end="url(#id405)"
+     marker-start="url(#id406)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="639.7"
+     x2="639.7"
+     y1="62.4"
+     y2="32.4"
+     id="line3511" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="649.7"
+     y="47.4"
+     id="text3513">30</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="649.7"
+     x2="629.7"
+     y1="62.4"
+     y2="62.4"
+     id="line3515" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="649.7"
+     x2="629.7"
+     y1="32.4"
+     y2="32.4"
+     id="line3517" />
+  <line
+     marker-end="url(#id407)"
+     marker-start="url(#id408)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="639.7"
+     x2="639.7"
+     y1="222.4"
+     y2="252.4"
+     id="line3519" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="649.7"
+     y="237.4"
+     id="text3521">30</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="649.7"
+     x2="629.7"
+     y1="222.4"
+     y2="222.4"
+     id="line3523" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="649.7"
+     x2="629.7"
+     y1="252.4"
+     y2="252.4"
+     id="line3525" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="139.7"
+     x2="139.7"
+     y1="32.4"
+     y2="-180.0"
+     id="line3527" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="169.7"
+     x2="169.7"
+     y1="32.4"
+     y2="-180.0"
+     id="line3529" />
+  <line
+     marker-end="url(#id409)"
+     marker-start="url(#id410)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="169.7"
+     x2="139.7"
+     y1="-180.0"
+     y2="-180.0"
+     id="line3531" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="154.7"
+     y="-200.0"
+     id="text3533">30</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="169.7"
+     x2="169.7"
+     y1="-190.0"
+     y2="-170.0"
+     id="line3535" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="139.7"
+     x2="139.7"
+     y1="-190.0"
+     y2="-170.0"
+     id="line3537" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="0"
+     x2="-30"
+     y1="0"
+     y2="0"
+     id="line3539" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="99.7"
+     x2="-30.0"
+     y1="32.4"
+     y2="32.4"
+     id="line3541" />
+  <line
+     marker-end="url(#id411)"
+     marker-start="url(#id412)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="-30.0"
+     x2="-30.0"
+     y1="0.0"
+     y2="32.4"
+     id="line3543" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-80.0"
+     y="16.2"
+     id="text3545">32</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-40.0"
+     x2="-20.0"
+     y1="0.0"
+     y2="0.0"
+     id="line3547" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-40.0"
+     x2="-20.0"
+     y1="32.4"
+     y2="32.4"
+     id="line3549" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="79.7"
+     x2="-24.15"
+     y1="32.4"
+     y2="32.4"
+     id="line3551" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="70.3"
+     x2="-25.85"
+     y1="82.4"
+     y2="82.4"
+     id="line3553" />
+  <line
+     marker-end="url(#id413)"
+     marker-start="url(#id414)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="-25.85"
+     x2="-25.85"
+     y1="32.4"
+     y2="82.4"
+     id="line3555" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-75.85"
+     y="57.4"
+     id="text3557">50</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-35.85"
+     x2="-15.85"
+     y1="32.4"
+     y2="32.4"
+     id="line3559" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-35.85"
+     x2="-15.85"
+     y1="82.4"
+     y2="82.4"
+     id="line3561" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="70.3"
+     x2="-25.85"
+     y1="202.4"
+     y2="202.4"
+     id="line3563" />
+  <line
+     marker-end="url(#id415)"
+     marker-start="url(#id416)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="-25.85"
+     x2="-25.85"
+     y1="82.4"
+     y2="202.4"
+     id="line3565" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-175.85"
+     y="142.4"
+     id="text3567">3@40 c/c</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-35.85"
+     x2="-15.85"
+     y1="82.4"
+     y2="82.4"
+     id="line3569" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-35.85"
+     x2="-15.85"
+     y1="202.4"
+     y2="202.4"
+     id="line3571" />
+  <line
+     stroke="#D8D8D8"
+     stroke-linecap="square"
+     stroke-opacity="0.7"
+     stroke-width="2.5"
+     x1="79.7"
+     x2="-24.15"
+     y1="252.4"
+     y2="252.4"
+     id="line3573" />
+  <line
+     marker-end="url(#id417)"
+     marker-start="url(#id418)"
+     stroke="black"
+     stroke-linecap="square"
+     stroke-width="2.5"
+     x1="-25.85"
+     x2="-25.85"
+     y1="252.4"
+     y2="202.4"
+     id="line3575" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-75.85"
+     y="227.4"
+     id="text3577">50</text>
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-35.85"
+     x2="-15.85"
+     y1="252.4"
+     y2="252.4"
+     id="line3579" />
+  <line
+     stroke="black"
+     stroke-linecap="square"
+     stroke-opacity="1.0"
+     stroke-width="2.5"
+     x1="-35.85"
+     x2="-15.85"
+     y1="202.4"
+     y2="202.4"
+     id="line3581" />
+  <polyline
+     fill="none"
+     marker-start="url(#id419)"
+     points="449.7,300.0 536.302540378,350.0 744.302540378,350.0"
+     stroke="black"
+     stroke-width="2.5"
+     id="polyline3583" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="557.102540378"
+     y="332.0"
+     id="text3585">Beam ISMB 300</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="557.102540378"
+     y="368.0"
+     id="text3587" />
+  <polyline
+     fill="none"
+     marker-start="url(#id420)"
+     points="0,0 -100.0,-100.0 -308.0,-100.0"
+     stroke="black"
+     stroke-width="2.5"
+     id="polyline3589" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-287.2"
+     y="-118.0"
+     id="text3591">Beam ISMB 450</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-328.8"
+     y="-82.0"
+     id="text3593" />
+  <polyline
+     fill="none"
+     marker-start="url(#id421)"
+     points="139.7,62.4 326.7,-124.6 694.7,-124.6"
+     stroke="black"
+     stroke-width="2.5"
+     id="polyline3595" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="363.5"
+     y="-142.6"
+     id="text3597">5 nos 16Ø holes</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="363.5"
+     y="-91.6"
+     id="text3599">for M16bolts(grade 4.8)</text>
+  <polyline
+     fill="none"
+     marker-start="url(#id422)"
+     points="70.3,202.4 24.1119784648,282.4 -343.888021535,282.4"
+     stroke="black"
+     stroke-width="2.5"
+     id="polyline3601" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-307.088021535"
+     y="264.4"
+     id="text3603">8 nos 16Ø holes</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="-380.688021535"
+     y="300.4"
+     id="text3605">for M16bolts(grade 4.8)</text>
+  <polyline
+     fill="none"
+     marker-start="url(#id423)"
+     points="169.7,252.4 209.249300803,400.0 385.249300803,400.0"
+     stroke="black"
+     stroke-width="2.5"
+     id="polyline3607" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="226.849300803"
+     y="382.0"
+     id="text3609"
+     style="fill:#00e500;fill-opacity:1;">ISA.90X90X8</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="28"
+     x="226.849300803"
+     y="418.0"
+     id="text3611" />
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="30"
+     x="50"
+     y="600"
+     id="text3613">Front view (Sec C-C)</text>
+  <text
+     fill="black"
+     font-family="sans-serif"
+     font-size="30"
+     x="400"
+     y="600"
+     id="text3615">(All distances are in &quot;mm&quot;)</text>
+</svg>

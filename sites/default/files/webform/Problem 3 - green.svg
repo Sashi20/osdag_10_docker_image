@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg3647"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Problem 3 - green.svg">
+  <defs
+     id="defs3649">
+    <marker
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="10"
+       markerHeight="10"
+       id="id70">
+      <path
+         id="path3971"
+         stroke="black"
+         fill="blue"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <marker
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="10"
+       markerHeight="10"
+       id="id71">
+      <path
+         id="path3974"
+         stroke="black"
+         fill="blue"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <marker
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="10"
+       markerHeight="10"
+       id="id72">
+      <path
+         id="path3977"
+         stroke="black"
+         fill="blue"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <marker
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="10"
+       markerHeight="10"
+       id="id73">
+      <path
+         id="path3980"
+         stroke="black"
+         fill="blue"
+         d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+    <marker
+       refY="3"
+       refX="8"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="30"
+       id="id74">
+      <path
+         id="path3983"
+         fill="black"
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0" />
+    </marker>
+    <marker
+       refY="3"
+       refX="0"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="20"
+       id="id75">
+      <path
+         id="path3986"
+         fill="black"
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3" />
+    </marker>
+    <marker
+       refY="3"
+       refX="8"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="30"
+       id="id76">
+      <path
+         id="path3989"
+         fill="black"
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0" />
+    </marker>
+    <marker
+       refY="3"
+       refX="0"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="20"
+       id="id77">
+      <path
+         id="path3992"
+         fill="black"
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3" />
+    </marker>
+    <marker
+       refY="3"
+       refX="8"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="30"
+       id="id78">
+      <path
+         id="path3995"
+         fill="black"
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0" />
+    </marker>
+    <marker
+       refY="3"
+       refX="0"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="20"
+       id="id79">
+      <path
+         id="path3998"
+         fill="black"
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3" />
+    </marker>
+    <marker
+       refY="3"
+       refX="0"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="20"
+       id="id80">
+      <path
+         id="path4001"
+         fill="black"
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3" />
+    </marker>
+    <marker
+       refY="3"
+       refX="0"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="20"
+       id="id81">
+      <path
+         id="path4004"
+         fill="black"
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3" />
+    </marker>
+    <marker
+       refY="3"
+       refX="0"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="20"
+       id="id82">
+      <path
+         id="path4007"
+         fill="black"
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3" />
+    </marker>
+    <marker
+       refY="3"
+       refX="0"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="20"
+       id="id83">
+      <path
+         id="path4010"
+         fill="black"
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3" />
+    </marker>
+    <marker
+       refY="3"
+       refX="0"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="20"
+       id="id84">
+      <path
+         id="path4013"
+         fill="black"
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3" />
+    </marker>
+    <marker
+       refY="3"
+       refX="8"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="30"
+       id="id85">
+      <path
+         id="path4016"
+         fill="black"
+         d=" M0,0 L3,3 L0,6 L8,3 L0,0" />
+    </marker>
+    <marker
+       refY="3"
+       refX="0"
+       orient="auto"
+       markerWidth="30"
+       markerHeight="20"
+       id="id86">
+      <path
+         id="path4019"
+         fill="black"
+         d=" M0,3 L8,6 L5,3 L8,0 L0,3" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="267.48508"
+     inkscape:cy="687.77966"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4203"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3652">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4203"
+       transform="matrix(0.69456142,0,0,0.74104943,109.57067,174.31126)">
+      <line
+         id="line4021"
+         y2="0"
+         y1="0"
+         x2="770"
+         x1="820"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;marker-end:url(#id70)" />
+      <text
+         id="text4023"
+         y="20"
+         x="690"
+         font-size="52"
+         style="font-size:52px;font-family:sans-serif;fill:#000000">B</text>
+      <line
+         id="line4025"
+         y2="340"
+         y1="340"
+         x2="770"
+         x1="820"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;marker-end:url(#id71)" />
+      <text
+         id="text4027"
+         y="360"
+         x="690"
+         font-size="52"
+         style="font-size:52px;font-family:sans-serif;fill:#000000">B</text>
+      <line
+         id="line4029"
+         y2="340"
+         y1="0"
+         x2="820"
+         x1="820"
+         style="stroke:#666666;stroke-width:1.39386618;stroke-linecap:square" />
+      <line
+         id="line4031"
+         y2="337"
+         y1="387"
+         x2="-50"
+         x1="-50"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;marker-end:url(#id72)" />
+      <text
+         id="text4033"
+         y="297"
+         x="-70"
+         font-size="52"
+         style="font-size:52px;font-family:sans-serif;fill:#000000">C</text>
+      <line
+         id="line4035"
+         y2="337"
+         y1="387"
+         x2="520"
+         x1="520"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;marker-end:url(#id73)" />
+      <text
+         id="text4037"
+         y="297"
+         x="500"
+         font-size="52"
+         style="font-size:52px;font-family:sans-serif;fill:#000000">C</text>
+      <line
+         id="line4039"
+         y2="387"
+         y1="387"
+         x2="520"
+         x1="-50"
+         style="stroke:#666666;stroke-width:1.39386618;stroke-linecap:square" />
+      <polyline
+         id="polyline4041"
+         points="0,0 150,0 150,340 0,340 0,0"
+         style="fill:none;stroke:#0000ff;stroke-width:3.48466539" />
+      <line
+         id="line4043"
+         y2="340"
+         y1="0"
+         x2="70.300003"
+         x1="70.300003"
+         style="stroke:#ff0000;stroke-width:3.48466539;stroke-linecap:square;stroke-dasharray:6.96933096, 6.96933096" />
+      <line
+         id="line4045"
+         y2="340"
+         y1="0"
+         x2="79.699997"
+         x1="79.699997"
+         style="stroke:#ff0000;stroke-width:3.48466539;stroke-linecap:square;stroke-dasharray:6.96933096, 6.96933096" />
+      <polyline
+         id="polyline4047"
+         points="150,100 99.7,100.0 99.7,240.0 150,240"
+         style="fill:none;stroke:#ff0000;stroke-width:3.48466539;stroke-dasharray:6.96933096, 6.96933096" />
+      <polyline
+         id="polyline4049"
+         points="150,100 160,100 449.7,100.0 449.7,240.0 160,240 150,240"
+         style="fill:none;stroke:#0000ff;stroke-width:3.48466539" />
+      <line
+         id="line4051"
+         y2="240"
+         y1="100"
+         x2="160"
+         x1="160"
+         style="stroke:#0000ff;stroke-width:3.48466539;stroke-linecap:square" />
+      <line
+         id="line4053"
+         y2="166.14999"
+         y1="166.14999"
+         x2="150"
+         x1="99.699997"
+         style="stroke:#ff0000;stroke-width:3.48466539;stroke-linecap:square;stroke-dasharray:6.96933096, 6.96933096" />
+      <line
+         id="line4055"
+         y2="173.85001"
+         y1="173.85001"
+         x2="150"
+         x1="99.699997"
+         style="stroke:#ff0000;stroke-width:3.48466539;stroke-linecap:square;stroke-dasharray:6.96933096, 6.96933096" />
+      <line
+         id="line4057"
+         y2="166.14999"
+         y1="166.14999"
+         x2="160"
+         x1="150"
+         style="stroke:#0000ff;stroke-width:3.48466539;stroke-linecap:square" />
+      <line
+         id="line4059"
+         y2="173.85001"
+         y1="173.85001"
+         x2="160"
+         x1="150"
+         style="stroke:#0000ff;stroke-width:3.48466539;stroke-linecap:square" />
+      <line
+         id="line4061"
+         y2="166.14999"
+         y1="166.14999"
+         x2="449.70001"
+         x1="160"
+         style="stroke:#ff0000;stroke-width:3.48466539;stroke-linecap:square;stroke-dasharray:6.96933096, 6.96933096" />
+      <line
+         id="line4063"
+         y2="173.85001"
+         y1="173.85001"
+         x2="449.70001"
+         x1="160"
+         style="stroke:#ff0000;stroke-width:3.48466539;stroke-linecap:square;stroke-dasharray:6.96933096, 6.96933096" />
+      <polyline
+         id="polyline4065"
+         points="79.7,76.15 87.7,76.15 87.7,158.15 169.7,158.15 169.7,166.15 79.7,166.15 79.7,76.15"
+         style="fill:none;stroke:#ff0000;stroke-width:3.48466539;stroke-dasharray:6.96933096, 6.96933096" />
+      <polyline
+         id="polyline4067"
+         points="79.7,263.85 87.7,263.85 87.7,181.85 169.7,181.85 169.7,173.85 79.7,173.85 79.7,263.85"
+         style="fill:none;stroke:#ff0000;stroke-width:3.48466539;stroke-dasharray:6.96933096, 6.96933096" />
+      <rect
+         id="rect4069"
+         y="158.14999"
+         x="131.7"
+         width="16"
+         height="23.700001"
+         style="fill:#000000;stroke:#000000;stroke-width:3.48466539" />
+      <line
+         id="line4071"
+         y2="191.85001"
+         y1="148.14999"
+         x2="139.7"
+         x1="139.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square" />
+      <rect
+         id="rect4073"
+         y="98.150002"
+         x="70.300003"
+         width="17.4"
+         height="16"
+         style="fill:#000000;stroke:#000000;stroke-width:3.48466539" />
+      <line
+         id="line4075"
+         y2="106.15"
+         y1="106.15"
+         x2="97.699997"
+         x1="60.299999"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square" />
+      <rect
+         id="rect4077"
+         y="225.85001"
+         x="70.300003"
+         width="17.4"
+         height="16"
+         style="fill:#000000;stroke:#000000;stroke-width:3.48466539" />
+      <line
+         id="line4079"
+         y2="233.85001"
+         y1="233.85001"
+         x2="104"
+         x1="60.299999"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square" />
+      <line
+         id="line4081"
+         y2="76.150002"
+         y1="76.150002"
+         x2="-104"
+         x1="79.699997"
+         style="stroke:#d8d8d8;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:0.7" />
+      <line
+         id="line4083"
+         y2="106.15"
+         y1="106.15"
+         x2="-104.7"
+         x1="70.300003"
+         style="stroke:#d8d8d8;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:0.7" />
+      <line
+         id="line4085"
+         y2="106.15"
+         y1="76.150002"
+         x2="-104.7"
+         x1="-104.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;marker-start:url(#id75);marker-end:url(#id74)" />
+      <text
+         id="text4087"
+         y="91.150002"
+         x="-154.7"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">30</text>
+      <line
+         id="line4089"
+         y2="76.150002"
+         y1="76.150002"
+         x2="-94.699997"
+         x1="-114.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:1" />
+      <line
+         id="line4091"
+         y2="106.15"
+         y1="106.15"
+         x2="-94.699997"
+         x1="-114.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:1" />
+      <line
+         id="line4093"
+         y2="263.85001"
+         y1="263.85001"
+         x2="-104"
+         x1="79.699997"
+         style="stroke:#d8d8d8;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:0.7" />
+      <line
+         id="line4095"
+         y2="233.85001"
+         y1="233.85001"
+         x2="-104.7"
+         x1="70.300003"
+         style="stroke:#d8d8d8;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:0.7" />
+      <line
+         id="line4097"
+         y2="233.85001"
+         y1="263.85001"
+         x2="-104.7"
+         x1="-104.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;marker-start:url(#id77);marker-end:url(#id76)" />
+      <text
+         id="text4099"
+         y="248.85001"
+         x="-154.7"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">30</text>
+      <line
+         id="line4101"
+         y2="263.85001"
+         y1="263.85001"
+         x2="-94.699997"
+         x1="-114.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:1" />
+      <line
+         id="line4103"
+         y2="233.85001"
+         y1="233.85001"
+         x2="-94.699997"
+         x1="-114.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:1" />
+      <line
+         id="line4105"
+         y2="-36.849998"
+         y1="158.14999"
+         x2="139.7"
+         x1="139.7"
+         style="stroke:#d8d8d8;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:0.7" />
+      <line
+         id="line4107"
+         y2="-36.849998"
+         y1="158.14999"
+         x2="169.7"
+         x1="169.7"
+         style="stroke:#d8d8d8;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:0.7" />
+      <line
+         id="line4109"
+         y2="-36.849998"
+         y1="-36.849998"
+         x2="169.7"
+         x1="139.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;marker-start:url(#id79);marker-end:url(#id78)" />
+      <text
+         id="text4111"
+         y="-46.849998"
+         x="154.7"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">30</text>
+      <line
+         id="line4113"
+         y2="-26.85"
+         y1="-46.849998"
+         x2="139.7"
+         x1="139.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:1" />
+      <line
+         id="line4115"
+         y2="-26.85"
+         y1="-46.849998"
+         x2="169.7"
+         x1="169.7"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:1" />
+      <polyline
+         id="polyline4117"
+         points="449.7,170.0 449.7,170.0 657.7,170.0"
+         style="fill:none;stroke:#000000;stroke-width:3.48466539;marker-start:url(#id80)" />
+      <text
+         id="text4119"
+         y="152"
+         x="470.5"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">Beam ISMB 300</text>
+      <text
+         id="text4121"
+         y="188"
+         x="470.5"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000" />
+      <polyline
+         id="polyline4123"
+         points="75,0 75.0,-150.0 283.0,-150.0"
+         style="fill:none;stroke:#000000;stroke-width:3.48466539;marker-start:url(#id81)" />
+      <text
+         id="text4125"
+         y="-168"
+         x="95.800003"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">Beam ISMB 450</text>
+      <text
+         id="text4127"
+         y="-117"
+         x="95.800003"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000" />
+      <polyline
+         id="polyline4129"
+         points="169.7,158.15 312.710431111,38.15 504.710431111,38.15"
+         style="fill:none;stroke:#000000;stroke-width:3.48466539;marker-start:url(#id82)" />
+      <text
+         id="text4131"
+         y="20.15"
+         x="331.91043"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#00ff00;">ISA. 90x90x8</text>
+      <text
+         id="text4133"
+         y="71.150002"
+         x="331.91043"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000" />
+      <polyline
+         id="polyline4135"
+         points="139.7,158.15 379.7,-81.85 747.7,-81.85"
+         style="fill:none;stroke:#000000;stroke-width:3.48466539;marker-start:url(#id83)" />
+      <text
+         id="text4137"
+         y="-99.849998"
+         x="416.5"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">4 nos 16Ø holes</text>
+      <text
+         id="text4139"
+         y="-48.849998"
+         x="416.5"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">for M16bolts(grade 4.8)</text>
+      <polyline
+         id="polyline4141"
+         points="70.3,233.85 252.165334795,338.85 620.165334795,338.85"
+         style="fill:none;stroke:#000000;stroke-width:3.48466539;marker-start:url(#id84)" />
+      <text
+         id="text4143"
+         y="320.85001"
+         x="288.96533"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">8 nos 16Ø holes</text>
+      <text
+         id="text4145"
+         y="356.85001"
+         x="288.96533"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">for M16bolts(grade 4.8)</text>
+      <line
+         id="line4147"
+         y2="450"
+         y1="450"
+         x2="150"
+         x1="150"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square" />
+      <line
+         id="line4149"
+         y2="450"
+         y1="450"
+         x2="170"
+         x1="170"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square" />
+      <line
+         id="line4151"
+         y2="440"
+         y1="440"
+         x2="150"
+         x1="100"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:square;marker-end:url(#id85)" />
+      <line
+         id="line4153"
+         y2="440"
+         y1="440"
+         x2="170"
+         x1="220"
+         style="stroke:#000000;stroke-width:3.48466539;stroke-linecap:butt;marker-end:url(#id85)" />
+      <text
+         id="text4155"
+         y="440"
+         x="230"
+         font-size="28"
+         style="font-size:28px;font-family:sans-serif;fill:#000000">20</text>
+      <line
+         id="line4157"
+         y2="440"
+         y1="340"
+         x2="150"
+         x1="150"
+         style="stroke:#d8d8d8;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:0.7" />
+      <line
+         id="line4159"
+         y2="395"
+         y1="240"
+         x2="160"
+         x1="160"
+         style="stroke:#d8d8d8;stroke-width:3.48466539;stroke-linecap:square;stroke-opacity:0.7" />
+      <text
+         id="text4161"
+         y="640"
+         x="150"
+         font-size="30"
+         style="font-size:30px;font-family:sans-serif;fill:#000000">Top view (Sec A-A)</text>
+      <text
+         id="text4163"
+         y="640"
+         x="500"
+         font-size="30"
+         style="font-size:30px;font-family:sans-serif;fill:#000000">(All distances are in &quot;mm&quot;)</text>
+    </g>
+  </g>
+</svg>
